@@ -7,9 +7,10 @@ When I’m not coding, you’ll find me 🌍 traveling, 🍜 watching anime, or 
 
 ## Work experiences
 
-#### Code-Talent
-**Fullstack Developer** — April 2025 — Now<br />
-**Vahatra**: **Fullstack Developer Intern** — July 2024 – February 2025
+### Code-Talent
+**Fullstack Developer** — April 2025 — Now
+### Vahatra
+**Fullstack Developer Intern** — July 2024 – February 2025
 <br /><br />
 
 ## Tech stack
