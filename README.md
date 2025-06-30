@@ -1,11 +1,10 @@
-### Hi, I'm Tony
+## Hi, I'm Tony
 
 I’m a **fullstack developer** and a 🎓 student at [**IT University**](https://ituniversity.mg/). Passionate about **creative development** and inspired by ✨ Awwwards-winning websites, I’m on a mission to become a creative developer who blends code & art.<br /><br />
 👉 **You can check out my** [portfolio](https://tonyandrianjaka.vercel.app/) here!<br /><br />
 When I’m not coding, you’ll find me 🌍 traveling, 🍜 watching anime, or ☕️ exploring new coffees.<br /><br />
-[![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrianjaka-Tony&theme=date_night)](https://github.com/Andrianjaka-Tony/github-readme-stats)<br /><br />
 
-### Tech stack
+## Tech stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -27,9 +26,9 @@ When I’m not coding, you’ll find me 🌍 traveling, 🍜 watching anime, or 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-<br />
+<br /><br />
 
-### Toole
+## Toole
 ![Arc](https://img.shields.io/badge/Arc-000000?style=for-the-badge&logo=arc&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
@@ -39,3 +38,4 @@ When I’m not coding, you’ll find me 🌍 traveling, 🍜 watching anime, or 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+<br /><br />
