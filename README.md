@@ -5,7 +5,13 @@ I’m a **fullstack developer** and a 🎓 student at [**IT University**](https:
 When I’m not coding, you’ll find me 🌍 traveling, 🍜 watching anime, or ☕️ exploring new coffees.
 <br /><br />
 
+## Work experiences
+
+**Code-Talent: **march 2025 — now
+<br /><br />
+
 ## Tech stack
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -30,6 +36,7 @@ When I’m not coding, you’ll find me 🌍 traveling, 🍜 watching anime, or 
 <br /><br />
 
 ## Toole
+
 ![Arc](https://img.shields.io/badge/Arc-000000?style=for-the-badge&logo=arc&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
