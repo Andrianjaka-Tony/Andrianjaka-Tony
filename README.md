@@ -10,7 +10,8 @@ When I’m not coding, you’ll find me 🌍 traveling, 🍜 watching anime, or 
 ### Code-Talent
 **Fullstack Developer** — April 2025 — Now
 ### Vahatra
-**Fullstack Developer Intern** — July 2024 – February 2025
+**Fullstack Developer Intern** — July 2024 – February 2025<br  />
+I build a **Human Resources magaement application** using ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 <br /><br />
 
 ## Tech stack
