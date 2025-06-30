@@ -2,7 +2,8 @@
 
 I’m a **fullstack developer** and a 🎓 student at [**IT University**](https://ituniversity.mg/). Passionate about **creative development** and inspired by ✨ Awwwards-winning websites, I’m on a mission to become a creative developer who blends code & art.<br /><br />
 👉 **You can check out my** [portfolio](https://tonyandrianjaka.vercel.app/) here!<br /><br />
-When I’m not coding, you’ll find me 🌍 traveling, 🍜 watching anime, or ☕️ exploring new coffees.<br /><br />
+When I’m not coding, you’ll find me 🌍 traveling, 🍜 watching anime, or ☕️ exploring new coffees.
+<br /><br />
 
 ## Tech stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -39,3 +40,6 @@ When I’m not coding, you’ll find me 🌍 traveling, 🍜 watching anime, or 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 <br /><br />
+
+## Stats
+[![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrianjaka-Tony&theme=date_night)](https://github.com/Andrianjaka-Tony/github-readme-stats)
