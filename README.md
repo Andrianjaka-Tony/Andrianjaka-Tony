@@ -7,7 +7,7 @@ When I’m not coding, you’ll find me 🌍 traveling, 🍜 watching anime, or 
 
 ## Work experiences
 
-**Code-Talent: **march 2025 — now
+**Code-Talent**: march 2025 — now
 <br /><br />
 
 ## Tech stack
