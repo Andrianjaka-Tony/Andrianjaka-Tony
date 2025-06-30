@@ -6,4 +6,4 @@ When I’m not coding, you’ll find me 🌍 traveling, 🍜 watching anime, or 
 [![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrianjaka-Tony&theme=date_night)](https://github.com/Andrianjaka-Tony/github-readme-stats)<br /><br />
 
 ### Tech stack
-
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
