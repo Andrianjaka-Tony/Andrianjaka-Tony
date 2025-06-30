@@ -4,4 +4,4 @@ I’m a **fullstack developer** and a 🎓 student at [**IT University**](https:
 👉 **You can check out my** [portfolio](https://tonyandrianjaka.vercel.app/) here!<br /><br />
 When I’m not coding, you’ll find me 🌍 traveling, 🍜 watching anime, or ☕️ exploring new coffees.<br /><br />
 🚀 Let’s create something amazing together!<br /><br />
-[![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrianjaka-Tony)](https://github.com/Andrianjaka-Tony/github-readme-stats)
