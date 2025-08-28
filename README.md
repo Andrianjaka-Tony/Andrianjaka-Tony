@@ -11,7 +11,7 @@ When I’m not coding, you’ll find me 🌍 traveling, 🍜 watching anime, or 
 **Fullstack Developer** — April 2025 — Now
 
 ### Vahatra
-**Fullstack Developer Intern** — July 2024 – February 2025<br  />
+**Fullstack Developer Intern** — June 2023 – February 2025<br  />
 During this internship, I co-developed a human resources management application with another intern. The app included 10 modules; I built 5 of them: dashboard, personnel management, payroll, assignments, and equipment.<br /><br />
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
